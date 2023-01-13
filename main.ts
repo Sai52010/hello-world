@@ -2,6 +2,6 @@ input.onButtonPressed(Button.A, function () {
     basic.showIcon(IconNames.Butterfly)
 })
 input.onButtonPressed(Button.B, function () {
-    music.playMelody("E B C5 A B G A F ", 200)
+    music.playMelody("C5 C5 C5 C5 C5 C5 C5 C5 ", 500)
 })
 basic.showIcon(IconNames.Yes)
